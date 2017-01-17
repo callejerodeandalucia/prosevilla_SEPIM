@@ -1,11 +1,21 @@
 Título (30)
 ===========
 
+Callejero Turístico de los Pueblos de la Provincia de Sevilla
+
 Descripción breve (80)
 ======================
 
+En esta aplicación encontrarás toda la información de interés para visitar la provincia de Sevilla
+
 Descripción completa (4000)
 ===========================
+
+Esta aplicación de la provincia de Sevilla te será muy útil para moverte por las calles de sus municipios, localizar cada lugar de interés, restaurante, alojamiento o podrás conocer donde se celebran sus principales fiestas. 
+El Patrimonio Monumental, la Cultura, la Naturaleza y la Gastronomía son los pilares en los que se asienta la oferta turística de la Sevilla de los pueblos de la provincia, esa otra Sevilla que se abre al mundo como un territorio singular capaz de brindar experiencias inolvidables.
+La provincia de Sevilla cuenta también con un extenso patrimonio natural y gracias a la gran variedad de deportes de aventura, en la naturaleza y de acción, el turismo activo se revela como sector emergente, que logra captar la atención de los visitantes, que fomenta la práctica habitual a lo largo del año, elemento clave para combatir la estacionalidad turística.
+En esta aplicación no nos olvidamos del  turismo industrial, hemos geolocalizado las empresas de la provincia de Sevilla que están trabajando esta actividad, que no sólo incluye como valor el patrimonio industrial, también ofrece la posibilidad de conocer industrias en vivo. Descubrir la actividad que desarrolla una organización prestando servicios turísticos con la finalidad de mostrar sus procesos, saber hacer, productos, servicios, sistemas de trabajo, historia, etc.
+El callejero te permitirá localizar cada lugar de interés y te ayudará desplazarte hasta él, ofreciéndose como una herramienta muy útil. 
 
 Etiquetas	
 ===========
